@@ -90,6 +90,7 @@ p {
 }
 .image:hover::after {
     opacity: 1;
+    cursor: pointer;
 }
 .info {
     display: flex;
