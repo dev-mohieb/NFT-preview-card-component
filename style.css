@@ -28,7 +28,7 @@ body {
     font-family: var(--mainfont);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 a {
